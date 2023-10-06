@@ -1,0 +1,45 @@
+id: I3FC9A4C5
+ocr_import_info:
+  timestamp: '2023-10-06T09:40:01.405771+00:00'
+  batch_id: batch-a429
+  ocr_engine: GoogleVisionEngine
+  ocr_model_type: builtin/weekly
+  ocr_lang_hint: ''
+  software_id: ocr-pipelines@v0.1.11
+  sponsor: Dharmakyab
+  sponsor_consent: true
+  op_import_options: {}
+  op_import_version: 0.11.7
+default_language: bo
+source: https://library.bdrc.io
+initial_creation_type: ocr
+imported: 2023-10-06 13:02:47.296481+00:00
+last_modified: 2023-10-06 13:02:47.296487+00:00
+source_metadata:
+  id: http://purl.bdrc.io/resource/W1NLM5661
+  status: http://purl.bdrc.io/admindata/StatusReleased
+  access: http://purl.bdrc.io/admindata/AccessOpen
+  reproduction_of: http://purl.bdrc.io/resource/MW1NLM5661
+  copyright_status: http://purl.bdrc.io/resource/CopyrightPublicDomain
+  title: བྱང་ཆུབ་ལམ་གྱི་རིམ་པ་ལ་བདེ་ལམ་གྱི་མན་ངག་བཞིན་དུ་ཤར་སྒོམ་བྱ་ཚུལ་ཚིག་བཅད་དུ་བསྡེབས་པ་སོགས།
+  languages: []
+statistics:
+  ocr_word_mean_confidence_index: 0.9215047835464865
+  ocr_word_median_confidence_index: 0.9797480000000001
+bases:
+  I1NLM5661_001:
+    source_metadata:
+      id: http://purl.bdrc.io/resource/I1NLM5661_001
+      total_pages: 262
+      volume_number: 1
+      volume_pages_bdrc_intro: 0
+    order: 1
+    base_file: I1NLM5661_001.txt
+    statistics:
+      ocr_word_median_confidence_index: 0.9797480000000001
+      ocr_word_mean_confidence_index: 0.9215047835464865
+copyright:
+  status: Public domain
+  notice: Public domain
+  info_url: https://creativecommons.org/publicdomain/mark/1.0/
+license: CC0
